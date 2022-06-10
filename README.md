@@ -1,7 +1,7 @@
 # optimal_tensor_basis
 
 # Overview
-This code accompanies the paper "On the generalizability of data-driven turbulence modelling" by Ryley McConkey, Eugene Yee, and Fue-Sang Lien. For more information, please see the manuscript.
+This code accompanies the paper "On the generalizability of data-driven turbulence models" by Ryley McConkey, Eugene Yee, and Fue-Sang Lien. For more information, please see the manuscript.
 
 # Files
 All work was completed in the notebook `optimal_tensor_basis.ipynb`. The notebook is organized by sections, from data preprocessing to generating the plots in the paper. 
